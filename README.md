@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ankit Patil 👋
 
-<!--
-**ankitjpatil/ankitjpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring GenAI Developer | PMP Certified | Ontario, Canada
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Advanced Diploma in Software Engineering & AI — Centennial College
+- 🎓 B.Eng. in Computer Engineering — Savitribai Phule Pune University
+- 📜 PMP Certified — Project Management Professional
+- 🏭 Background in operations and manufacturing (supply chain, production)
+- 🤖 Currently building expertise in Generative AI, LLMs, and agentic systems
+- 🇨🇦 Based in Ontario, Canada
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Large Language Models and RAG pipelines
+- AWS Bedrock and LangChain
+- Multi-agent AI systems with LangGraph
+
+## Projects (coming soon)
+- 🔗 Operations Knowledge Assistant — RAG chatbot on AWS
+- 🤖 Procurement Intelligence Agent — multi-agent system
+
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ajp07)
