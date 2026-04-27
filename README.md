@@ -22,5 +22,5 @@
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ajp07)
 
-[![GitHub Streak](https://github.com/ankitjpatil/ankitjpatil)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ankitjpatil&theme=dark)](https://git.io/streak-stats)
 
